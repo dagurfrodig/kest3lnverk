@@ -1,0 +1,16 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	server1.ddp.is. root.server1.ddp.is. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	server1.ddp.is.
+
+server1	IN	A	192.168.100.10	
+client1 IN      A	192.168.100.65
+client2 IN	A	192.168.100.64
