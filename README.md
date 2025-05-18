@@ -42,6 +42,6 @@ client 1 og client2 nslookup hvorn annan
 
 config files fyrir dns
 
-[forward.ddp.is.db]{forward.ddp.is.db}
+[forward.ddp.is.db](forward.ddp.is.db)
 
-[reverse.192.168.100.db]{reverse.192.168.100.db}
+[reverse.192.168.100.db](reverse.192.168.100.db)
