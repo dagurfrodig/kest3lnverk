@@ -27,3 +27,5 @@ hluti 3
 dhcpoffer frá dhcp á server1
 
 ![show dhcp offer](https://github.com/user-attachments/assets/db9d515d-3d46-4923-904d-d4ae5e438826)
+
+dhcp config file [dhcpd.conf](dhcpd.conf)
