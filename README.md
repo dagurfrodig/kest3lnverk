@@ -16,5 +16,14 @@ hluti 1
 
 
 hluti 2
+
 ![Screenshot 2025-05-17 231504](https://github.com/user-attachments/assets/e9953633-4adf-432b-a367-7832c2e54a9d)
+
 ![Screenshot 2025-05-17 231622](https://github.com/user-attachments/assets/f63b543c-edc7-4c4c-847f-b52a04acd179)
+
+
+hluti 3
+
+dhcpoffer frá dhcp á server1
+
+![show dhcp offer](https://github.com/user-attachments/assets/db9d515d-3d46-4923-904d-d4ae5e438826)
