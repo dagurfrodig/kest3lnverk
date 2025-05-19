@@ -34,10 +34,7 @@ dhcp config file [dhcpd.conf](dhcpd.conf)
 
 hluti 4
 
-client 1 og client2 nslookup hvorn annan
-
-![client1 pings client2](https://github.com/user-attachments/assets/4a1da38d-cb69-44cb-9290-65adba5b2786)
-
+client2 nslookup client 1
 ![client2 looksup client1](https://github.com/user-attachments/assets/5ae12ac8-0a76-4d93-81ea-fad4f12adc1f)
 
 config files fyrir dns
