@@ -67,8 +67,15 @@ hluti 7
 
 command nötuð var í cron " 0 0 * * 0 rsync -aAX --delete /home /backups/home_backups
 
+hluti 8
 
+get ekki gert client 2 
+client 1 fær ntp frá server 1
 
+![client1 ntp](https://github.com/user-attachments/assets/522ae237-a3ca-4041-aee2-260dec3c2716)
 
+client 1 ntp conf file
+
+![client1 ntp conf](https://github.com/user-attachments/assets/bcebaf87-cbc3-4ff7-8e00-72aaf44b4c70)
 
 
