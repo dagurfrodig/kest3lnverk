@@ -65,7 +65,7 @@ skip
 
 hluti 7
 
-command nötuð var " 0 0 * * 0 rsync -aAX --delete /home /backups/home_backups
+command nötuð var í cron " 0 0 * * 0 rsync -aAX --delete /home /backups/home_backups
 
 
 
