@@ -69,7 +69,6 @@ command nötuð var í cron " 0 0 * * 0 rsync -aAX --delete /home /backups/home_
 
 hluti 8
 
-get ekki gert client 2 
 client 1 fær ntp frá server 1
 
 ![client1 ntp](https://github.com/user-attachments/assets/522ae237-a3ca-4041-aee2-260dec3c2716)
@@ -77,5 +76,26 @@ client 1 fær ntp frá server 1
 client 1 ntp conf file
 
 ![client1 ntp conf](https://github.com/user-attachments/assets/bcebaf87-cbc3-4ff7-8e00-72aaf44b4c70)
+
+
+hluti 9
+
+clients senda log til servers
+
+
+![client1 logs in server1](https://github.com/user-attachments/assets/5f0853b5-9771-4e35-adbe-f9b173cf5579)
+
+![client2 log in server 1](https://github.com/user-attachments/assets/554ad4df-f2ac-41d6-b5d4-8c4df70d1443)
+
+
+config breytingar
+
+![syslog config](https://github.com/user-attachments/assets/91cf2dcf-cee6-420b-ae89-e5aad3d36155)
+
+![client 2 syslog config](https://github.com/user-attachments/assets/a66a52dd-697e-4e56-b4e6-3ec4090a403f)
+
+![syslog config server 1](https://github.com/user-attachments/assets/9b1aec8c-f39c-453c-82d1-f210abb6344f)
+
+
 
 
