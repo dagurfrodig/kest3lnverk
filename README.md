@@ -58,6 +58,14 @@ users
 það var stafsetningarvilla í csv skránni department vantaði rið lagaði það áður en ég runnaði kóðann
 [users.sh](users.sh)
 
+hluti 6 
+
+skip
+
+
+hluti 7
+
+command nötuð var " 0 0 * * 0 rsync -aAX --delete /home /backups/home_backups
 
 
 
