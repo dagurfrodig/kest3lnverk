@@ -2,9 +2,6 @@
 verkefni fyrir kest
 
 
-ekki búinn, ekki gefa einkunn strax
-
-
 hluti 1
 
 ![client1name](https://github.com/user-attachments/assets/7752c60c-7567-4e40-9d59-5c2a55f0f2ce)
