@@ -45,3 +45,24 @@ config files fyrir dns
 [forward.ddp.is.db](forward.ddp.is.db)
 
 [reverse.192.168.100.db](reverse.192.168.100.db)
+
+
+
+hluti 5
+
+groups
+
+![groups](https://github.com/user-attachments/assets/116a91c9-6571-4da7-a839-bae6d8851682)
+
+users
+
+![users](https://github.com/user-attachments/assets/fb0e6862-91af-4518-9127-e10e81743a4a)
+
+að var stafsetningarvilla í csv skránni department vantaði rið lagaði það áður en ég runnaði kóðann
+
+
+
+
+
+
+
