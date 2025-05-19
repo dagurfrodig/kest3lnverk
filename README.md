@@ -95,4 +95,32 @@ config breytingar
 
 
 
+hlutar 10-12
+skip
+
+
+hluti 13 lokuð port
+
+server 1
+
+
+![server1 ports](https://github.com/user-attachments/assets/d2fb3c96-c5c8-453f-8896-428e2895fff1)
+
+
+
+client 1
+
+
+![client 1 ports](https://github.com/user-attachments/assets/e349e811-33e4-45ad-b835-698e9327f51c)
+
+
+
+
+
+client 2
+
+
+![client2 ports](https://github.com/user-attachments/assets/03c463b1-8f3c-4d5f-b4c7-61e58bfbf59b)
+
+
 
